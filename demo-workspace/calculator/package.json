@@ -1,12 +1,12 @@
 {
-  "name": "@demo-workspace/calculator",
+  "name": "calculator",
   "version": "0.0.1",
-  "description": "demo workspace",
+  "description": "calculator for demo workspace",
   "dependencies": {
     "tslib": "^2.3.0"
   },
   "type": "commonjs",
-  "main": "./src/index.js",
+  "main": "./src/index.ts",
   "typings": "./src/index.d.ts",
   "repository": "https://github.com/rong9x/demo-workspace/tree/main/demo-workspace",
   "keywords": ["demo workspace"]
