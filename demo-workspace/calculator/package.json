@@ -6,8 +6,8 @@
     "tslib": "^2.3.0"
   },
   "type": "commonjs",
-  "main": "./src/index.ts",
-  "typings": "./src/index.d.ts",
+  "main": "./index.ts",
+  "typings": "./index.d.ts",
   "repository": "https://github.com/rong9x/demo-workspace/tree/main/demo-workspace",
   "keywords": ["demo workspace"]
 }
